@@ -1,0 +1,7 @@
+.segitiga{
+	height:0px;
+	width:0px;
+	border-bottom:solid 120px rgb(248, 202, 75);
+	border-left:solid 80px transparent;
+	border-right:solid 80px transparent;
+}
